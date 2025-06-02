@@ -725,6 +725,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/42330389.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236491/42330389.smil/index.m3u8?fmt=ts2hl
 #EXTINF:-1 group-title="体育频道",CCTV5
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="体育频道",五星体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236361/index.m3u8
 #EXTINF:-1 group-title="港澳台",亞洲新聞台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="港澳台",WionNews
