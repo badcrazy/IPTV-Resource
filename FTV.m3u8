@@ -725,8 +725,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/42330389.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236491/42330389.smil/index.m3u8?fmt=ts2hl
 #EXTINF:-1 group-title="体育频道",CCTV5
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/42330389.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="体育频道",五星体育
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236361/index.m3u8
 #EXTINF:-1 group-title="港澳台",亞洲新聞台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="港澳台",WionNews
@@ -735,6 +733,8 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 group-title="4K8K",浙江卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236638/index.m3u8
 #EXTINF:-1 group-title="4K8K",FASHIONONE
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K8K",Love Nature 4K
@@ -755,3 +755,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236361/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/42330389.smil/index.m3u8?fmt=ts2hl
 #EXTINF:-1 group-title="上海",都市剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="上海",上海新纪实
+http://8.138.7.223/tv/shtv.php?id=xjs
+#EXTINF:-1 group-title="上海",上海魔都眼
+http://8.138.7.223/tv/shtv.php?id=mdy
+#EXTINF:-1 group-title="上海",上海乐游
+http://8.138.7.223/tv/shtv.php?id=ly
+#EXTINF:-1 group-title="上海",第一财经
+http://8.138.7.223/tv/shtv.php?id=dycj
+#EXTINF:-1 group-title="上海",上海都市
+http://8.138.7.223/tv/shtv.php?id=ds
