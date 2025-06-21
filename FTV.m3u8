@@ -447,6 +447,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 group-title="4K8K",浙江卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236638/index.m3u8
+#EXTINF:-1 group-title="4K8K",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="4K8K",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hl
 #EXTINF:-1 group-title="4K8K",咪咕视频4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
 #EXTINF:-1 group-title="4K8K",咪咕视频4K
@@ -551,29 +557,29 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/396328931.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="少儿动漫",爱玩具
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="体育",纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
-#EXTINF:-1 group-title="体育",纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 group-title="体育",纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="体育",ELEVEN体育2
+#EXTINF:-1 group-title="体育频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 group-title="体育",ELEVEN体育2
+#EXTINF:-1 group-title="体育频道",ELEVEN体育2
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1 group-title="体育",skysports
+#EXTINF:-1 group-title="体育频道",skysports
 https://stream1.freetv.fun/skysports-2.ctv
-#EXTINF:-1 group-title="体育",ELEVEN体育1
+#EXTINF:-1 group-title="体育频道",ELEVEN体育1
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
-#EXTINF:-1 group-title="体育",ELEVEN体育1
+#EXTINF:-1 group-title="体育频道",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 group-title="体育",ESPN
+#EXTINF:-1 group-title="体育频道",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 group-title="体育",迪拜体育2
+#EXTINF:-1 group-title="体育频道",迪拜体育2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="体育",AMC音乐
+#EXTINF:-1 group-title="体育频道",AMC音乐
 https://AMChls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="体育",摔跤格斗
+#EXTINF:-1 group-title="体育频道",摔跤格斗
 https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="体育频道",摔跤格斗
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
@@ -713,8 +719,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236404/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
 #EXTINF:-1 group-title="卫视",山东卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42330389.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视",浙江卫视4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236638/index.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视",湖北卫视
@@ -865,10 +869,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236485/42330389.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236397/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hl
-#EXTINF:-1 group-title="央视",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV2
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236363/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
@@ -971,7 +971,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV.com
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4K
+#EXTINF:-1 group-title="央视",CCTV4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV4美洲
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
